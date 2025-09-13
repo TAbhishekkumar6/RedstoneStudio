@@ -1,3 +1,5 @@
+ ![Logo](./PublicMediaAssets/logo.png)
+
 # 🔴 Redstone Studio
 
 **The first visual programming IDE designed specifically for Minecraft addon development**
@@ -74,3 +76,7 @@ We're building Redstone Studio with the Minecraft community! Here's how you can 
 **Star ⭐ this repo if you're excited about the future of visual Minecraft addon development!**
 
 *Made with ❤️ for the Minecraft community*
+
+---
+
+*Redstone Studio is not affiliated with or endorsed by Mojang Studios or Microsoft.*
