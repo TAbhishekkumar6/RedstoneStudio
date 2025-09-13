@@ -36,26 +36,7 @@ Redstone Studio provides Blueprint visual programming designed specifically for 
 
 ## Getting Started
 
-### Prerequisites
-- JDK 17 or later
-- Git
-
-### Building from Source
-
-```bash
-git clone https://github.com/your-username/redstone-studio.git
-cd redstone-studio
-./gradlew run
-```
-
-### Running
-```bash
-./gradlew :composeApp:run
-```
-
----
-
-## Technology Stack
+### Technology Stack
 
 - **Framework:** Kotlin Multiplatform with Compose Multiplatform
 - **3D Rendering:** Korender for cross-platform OpenGL rendering
