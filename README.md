@@ -1,4 +1,4 @@
- ![Logo](./PublicMediaAssets/logo.png)
+ ![Logo](./PublicMediaAssets/logo.jpeg)
 
 # 🔴 Redstone Studio
 
