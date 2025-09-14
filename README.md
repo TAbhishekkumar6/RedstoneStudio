@@ -66,8 +66,8 @@ We're building Redstone Studio with the Minecraft community! Here's how you can 
 
 ## Community & Support
 
-- **Issues:** [GitHub Issues](https://github.com/TAbhishekkumar6/redstone-studio/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/TAbhishekkumar6/redstone-studio/discussions)
+- **Issues:** [GitHub Issues](https://github.com/TAbhishekkumar6/RedstoneStudio/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/TAbhishekkumar6/RedstoneStudio/discussions)
 - **Discord:** Coming soon
 - **Documentation:** Coming soon
 
