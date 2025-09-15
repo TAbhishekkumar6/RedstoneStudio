@@ -33,6 +33,7 @@ Redstone Studio provides Blueprint visual programming designed specifically for 
 - **Perfect Code Generation** - Outputs clean, professional Minecraft addon files
 - **Integrated Workflow** - Model editor, animator, and Blueprint system in one application
 - **Beginner to Expert** - Visual for newcomers, powerful for professionals
+- **UI** - Beautiful, Clean UI / Visually Appealing
 
 ---
 
@@ -41,9 +42,9 @@ Redstone Studio provides Blueprint visual programming designed specifically for 
 ### Technology Stack
 
 - **Framework:** Kotlin Multiplatform with Compose Multiplatform
-- **3D Rendering:** Korender for cross-platform OpenGL rendering
+- **3D Rendering:** (Soon)
 - **Platform:** Desktop-first (Windows, macOS, Linux)
-- **Target Output:** Minecraft Bedrock Edition behavior/resource packs
+- **Target Output:** Minecraft ALL (Bedrock Edition / Java Edition)
 
 ---
 
