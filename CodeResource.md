@@ -8,5 +8,7 @@ https://github.com/geenium/pack-manifest-creator
 
 https://github.com/JannisX11/MolangJS
 
+https://bedrock.dev/
+
 
 resource for making nodes, other functions, and scripting based on Minecraft documentation
