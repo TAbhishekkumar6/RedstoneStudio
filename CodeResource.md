@@ -10,5 +10,7 @@ https://github.com/JannisX11/MolangJS
 
 https://bedrock.dev/
 
+For a custom Parser  https://tree-sitter.github.io/tree-sitter/
+
 
 resource for making nodes, other functions, and scripting based on Minecraft documentation
