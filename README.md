@@ -29,7 +29,7 @@ Redstone Studio revolutionizes Minecraft addon development by providing the firs
 
 Redstone Studio provides Blueprint visual programming designed specifically for Minecraft:
 
-- **Native Minecraft Nodes** - Work directly with MoLang expressions, Component Groups, and Entity Events
+- **Native Minecraft Codes** - Work directly with MoLang expressions, Component Groups, and Entity Events
 - **Perfect Code Generation** - Outputs clean, professional Minecraft addon files
 - **Integrated Workflow** - Model editor, animator, and Blueprint system in one application
 - **Beginner to Expert** - Visual for newcomers, powerful for professionals
@@ -61,7 +61,7 @@ We're building Redstone Studio with the Minecraft community! Here's how you can 
 
 ## License
 
-**Coming soon** - License details will be announced as the project nears its first stable release.  
+**Coming soon** - License details will be announced as the project nears its first UnStable release.  
 
 ---
 
